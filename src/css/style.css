@@ -10,9 +10,10 @@ body {
 #bgImage {
   position: absolute;
   max-width: 100%;
-  min-width: 1880px;
+  min-width: 2000px;
   max-height: 1400px;
   min-height: 1200px;
+  /* min-height: 100%; */
   top: 0;
   left: 0;
   z-index: -5;
